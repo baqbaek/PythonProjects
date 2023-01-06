@@ -1,6 +1,6 @@
 name = input('What is your name?')
 
 print(name)
-length = name.__len__()
+length = len(name)
 
 print(f'Your name length is: {length}')
