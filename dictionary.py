@@ -1,4 +1,4 @@
-x =  {
+x = {
     'age' : 12,
     'username' : 'McIzation',
     'weapons' : None,
