@@ -7,7 +7,7 @@ picture = [
     [0, 0, 0, 1, 0, 0, 0],
     [0, 0, 0, 1, 0, 0, 0]
 ]
-for i in picture:       #iterrate by rows
+for i in picture:       #iterate by rows
     for j in i:         #iterate by values
         if j == 0:
             print(' ', end='')
